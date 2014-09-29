@@ -1,0 +1,4 @@
+.navbar-fixed-bottom, .navbar-fixed-top, .subhead-fixed {position:relative!important}
+.subhead-fixed {top:0px!important}
+@media (min-width: 768px){
+body {padding-top:0px!important;}}
